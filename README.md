@@ -7,8 +7,8 @@ In this document, I discuss two articles on Google's "selling" of their user dat
 In Bennett Cypher's article, [Google Says It Doesn’t 'Sell' Your Data. Here’s How the Company Shares, Monetizes, and Exploits It.](https://www.eff.org/deeplinks/2020/03/google-says-it-doesnt-sell-your-data-heres-how-company-shares-monetizes-and), he talks about the various different methods Google uses in order to "bypass" the California Consumer Privacy Act (CCPA) that regulates the sale of data and requires companies to provide users a choice on whether their data can be sold or not. Bennet describes two methods that Google uses to raise profits on their user data:
 
 >Google monetizes what it observes about people in two major ways:  
->   It uses data to build individual profiles with demographics and interests, then lets advertisers target groups of people based on those traits.  
->   It shares data with advertisers directly and asks them to bid on individual ads.
+>   * It uses data to build individual profiles with demographics and interests, then lets advertisers target groups of people based on those traits.  
+>   * It shares data with advertisers directly and asks them to bid on individual ads.
 
 So basically, Google shares the user data they've collected with other companies and raise revenue by hosting advertisements from these companies that target specific users. This indirect way of "selling" user data allows Google in a sense to bypass the CCPA and continue raising their profits off user data like in previous years.
 
